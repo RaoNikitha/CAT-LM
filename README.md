@@ -7,7 +7,7 @@ CAT-LM is a GPT-style language model with 2.7 Billion parameters, trained on a c
 
 ## Publication
 
-[CAT-LM: Training Language Models on Aligned Code And Tests](https://conf.researchr.org/details/ase-2023/ase-2023-papers/59/CAT-LM-Training-Language-Models-on-Aligned-Code-And-Tests)  
+[CAT-LM: Training Language Models on Aligned Code And Tests](https://arxiv.org/abs/2310.01602)  
 [Nikitha Rao](https://raonikitha.github.io)\*, [Kush Jain](https://www.kushjain.com/)\*, [Uri Alon](https://urialon.ml), [Claire Le Goues](https://clairelegoues.com), and [Vincent J. Hellendoorn](http://vhellendoorn.github.io)\
 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)
 
